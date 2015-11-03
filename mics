@@ -1,0 +1,2 @@
+# -*- coding: utf-8 -*-
+print("%s %s %s %s" % ("one", "two", "three", "four"))
