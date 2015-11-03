@@ -1,5 +1,0 @@
-# peterPYTHON
-
-test
-
-test2
