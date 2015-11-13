@@ -1,6 +1,6 @@
 from sys import argv
 
-script = raw_input("Script? ")
+script = raw_input("Scripttt? ")
 first = raw_input("First? ")
 second = raw_input("Second? ")
 third = raw_input("Third? ")
