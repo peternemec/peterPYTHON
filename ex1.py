@@ -8,4 +8,4 @@ print 'I "said" do not touch this.'
 print 'test tralala.'
 print 'test stage1.'
 print 'test new line.'
-
+print 'HEAD.
