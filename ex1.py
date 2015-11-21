@@ -9,3 +9,4 @@ print 'test tralala.'
 print 'test stage1.'
 print 'test new line.'
 print 'HEAD.
+print "test STAGE"
